@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="txtBtnOrder">ORDER</string>
+    <string name="txtQuantityTitle">QUANTITY</string>
+    <string name="txtPriceTitle">PRICE</string>
+    <string name="txtBtnIncrement">+</string>
+    <string name="txtBtnDecrement">-</string>
+    <string name="txtPriceText">Price:</string>
+</resources>
